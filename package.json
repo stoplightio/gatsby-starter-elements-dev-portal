@@ -1,7 +1,7 @@
 {
-  "name": "@stoplight/gatsby-starter-elements",
+  "name": "@stoplight/gatsby-starter-elements-dev-portal",
   "private": true,
-  "description": "A Gatsby Starter for Stoplight Elements",
+  "description": "A Gatsby Starter for Stoplight Elements Dev Portal",
   "version": "1.0.0",
   "license": "0BSD",
   "scripts": {
@@ -14,7 +14,7 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "@stoplight/elements": "^7.0.0",
+    "@stoplight/elements-dev-portal": "^1.0.0",
     "canvas": "^2.8.0",
     "gatsby": "^3.8.1",
     "jsdom": "^16.6.0",

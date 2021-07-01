@@ -1,12 +1,12 @@
 import React from "react"
-import { API } from '@stoplight/elements';
+import { StoplightProject } from '@stoplight/elements-dev-portal';
 
-require('@stoplight/elements/styles.min.css');
+require('@stoplight/elements-dev-portal/styles.min.css');
 
 export default function Home() {
   return <div>
-      <API 
-        apiDescriptionUrl="https://raw.githubusercontent.com/stoplightio/Public-APIs/master/reference/zoom/openapi.yaml"
+      <StoplightProject 
+        projectId="cHJqOjYwNjYx"
         router={typeof window === 'undefined' ? 'memory' : 'history'} 
       />
     </div>
