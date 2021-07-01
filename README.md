@@ -1,4 +1,4 @@
-# Elements Gatsby Starter
+# Elements Dev Portal Gatsby Starter
 
 This is a Gatsby starter for [Stoplight Elements Dev Portal](https://github.com/stoplightio/elements).
 
